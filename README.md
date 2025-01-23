@@ -23,7 +23,8 @@
 
 ## 📂 Projetos
 ### 💡 Testes Web Automatizados
-Repositório de automação de testes de software utilizando Robot Framework:  [Automated Web Tests](https://github.com/julianaferreira-dev/automated-web-tests.git)
+Repositório de automação de testes de software utilizando diversas ferramentas e frameworks:  [![Automated Web Tests](https://img.shields.io/badge/Automated%20Web%20Tests-008C8C?style=flat-square&logo=github&logoColor=white)](https://github.com/julianaferreira-dev/automated-web-tests.git)
+
 
 
 ## 📊 Estatísticas do GitHub
