@@ -21,12 +21,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📂 Projetos
-### 💡 Testes Web Automatizados
-Repositório de automação de testes de software utilizando diversas ferramentas e frameworks:  [![Automated Web Tests](https://img.shields.io/badge/Automated%20Web%20Tests-008C8C?style=flat-square&logo=github&logoColor=white)](https://github.com/julianaferreira-dev/automated-web-tests.git)
-
-
-
 ## 📊 Estatísticas do GitHub
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=julianaferreira-dev&layout=compact&theme=dark)
 
