@@ -9,7 +9,7 @@
 ## 🔧 Habilidades e Tecnologias
 - **Desenvolvimento**: SQL, JavaScript, HTML, CSS.  
 - **Testes de Software**: Robot Framework, análise de qualidade.  
-- **Estudando atualmente**: Robot Framework, JUnit, Tricentis Tosca.  
+- **Estudando atualmente**: Robot Framework, Cypress.  
 - **Outras Competências**: Curiosidade, habilidades analíticas, organização, trabalho em equipe.
 
 ### Ferramentas e Linguagens em Destaque
