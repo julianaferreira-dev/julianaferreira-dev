@@ -3,14 +3,14 @@
 ## Sobre mim
 🎓 Formada em Análise e Desenvolvimento de Sistemas.  
 ⚖️ Transição da área do Direito para Tecnologia.  
-🧠 Atualmente aprofundando meus conhecimentos em **Testes Manuais** e aprendendo novas ferramentas utilizadas em **Testes Automatizados**.  
+🧠 Atualmente aprofundando meus conhecimentos em **Testes Manuais WEB e API** e aprendendo novas ferramentas utilizadas em **Testes Automatizados**.  
 🚀 Buscando uma oportunidade para iniciar minha carreira em **Testes de Software**.  
 
 ## 🔧 Habilidades e Tecnologias
-- **Desenvolvimento**: SQL, JavaScript, HTML, CSS.  
-- **Testes de Software**: Robot Framework, análise de qualidade.  
-- **Estudando atualmente**: Robot Framework, Cypress.  
-- **Outras Competências**: Curiosidade, habilidades analíticas, organização, trabalho em equipe.
+- **Desenvolvimento**: SQL, JavaScript, HTML, CSS 
+- **Testes de Software**: Robot Framework, Cypress  
+- **Estudando atualmente**: Cypress, Tricentis Tosca
+- **Outras Competências**: Curiosidade, habilidades analíticas, organização, trabalho em equipe
 
 ### Ferramentas e Linguagens em Destaque
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
