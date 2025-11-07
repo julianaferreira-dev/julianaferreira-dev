@@ -4,7 +4,7 @@
 🎓 Formada em Análise e Desenvolvimento de Sistemas.  
 ⚖️ Transição da área do Direito para Tecnologia.  
 🧠 Atualmente aprofundando conhecimentos no ecossistema **SAP**, **qualidade de software** e **automação de testes**.  
-🚀 Aberta a oportunidades tanto em **desenvolvimento** quanto em **QA/Automação**.  
+🚀 Aberta a oportunidades tanto em **SAP** quanto em **QA/Automação**.  
 
 ## 🔧 Habilidades e Tecnologias
 - **Desenvolvimento**: ABAP (SAP), SQL, JavaScript, HTML, CSS 
